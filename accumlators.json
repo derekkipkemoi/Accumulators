@@ -267,6 +267,26 @@
             ]
         }   
     ],
+    "subscriptions":{
+        "weekly":{
+            "id":"weekly_subscriptions",
+            "title":"7 Days",
+            "amount": "Ksh 800.00"
+        },
+        "monthly":{
+            "id":"monthly_subscriptions",
+            "title":"30 Days",
+            "offerAmount": "Ksh 2,000.00",
+            "amount": "Ksh 8,000.00"
+        },
+        "yearly":{
+            "id":"yearly_subscriptions",
+            "title":"365 Days",
+            "offerAmount": "Ksh 11,000.00",
+            "amount": "Ksh 59,000.00"
+        }
+
+    },
     "strategy":{
         "user": "John Doe",
         "time": "7 Mins",
