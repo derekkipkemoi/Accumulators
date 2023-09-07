@@ -1,64 +1,6 @@
 {
-    "goals":{
-    "scoreOnePlus": [
-            {
-                "leagueName": "Spain: Primera Division",
-                "teams":{
-                    "teamA": "Cadiz",
-                    "teamB": "Villareal"
-                },
-                "prediction": "Villareal to score",
-                "dateTime": "19/06/2023"
-            },
-            {
-                "leagueName": "Spain: Primera Division",
-                "teams":{
-                    "teamA": "Cadiz",
-                    "teamB": "Villareal"
-                },
-                "prediction": "Villareal to score",
-                "dateTime": "19/06/2023"
-            },
-            {
-                "leagueName": "Spain: Primera Division",
-                "teams":{
-                    "teamA": "Cadiz",
-                    "teamB": "Villareal"
-                },
-                "prediction": "Villareal to score",
-                "dateTime": "19/06/2023"
-            }
-        ],
-        "scoreTwoPlus": [
-            {
-                "leagueName": "Spain: Primera Division",
-                "teams":{
-                    "teamA": "Cadiz",
-                    "teamB": "Villareal"
-                },
-                "prediction": "Villareal to score",
-                "dateTime": "19/06/2023"
-            },
-            {
-                "leagueName": "Spain: Primera Division",
-                "teams":{
-                    "teamA": "Cadiz",
-                    "teamB": "Villareal"
-                },
-                "prediction": "Villareal to score",
-                "dateTime": "19/06/2023"
-            },
-            {
-                "leagueName": "Spain: Primera Division",
-                "teams":{
-                    "teamA": "Cadiz",
-                    "teamB": "Villareal"
-                },
-                "prediction": "Villareal to score",
-                "dateTime": "19/06/2023"
-            }
-        ],
-        "BTTS": [
+    "scoreOnePlus": {
+        "games": [
             {
                 "leagueName": "Spain: Primera Division",
                 "teams":{
@@ -88,66 +30,8 @@
             }
         ]
     },
-    "overUnder":{
-        "OverOneFive": [
-                {
-                    "leagueName": "Spain: Primera Division",
-                    "teams":{
-                        "teamA": "Cadiz",
-                        "teamB": "Villareal"
-                    },
-                    "prediction": "Villareal to score",
-                    "dateTime": "19/06/2023"
-                },
-                {
-                    "leagueName": "Spain: Primera Division",
-                    "teams":{
-                        "teamA": "Cadiz",
-                        "teamB": "Villareal"
-                    },
-                    "prediction": "Villareal to score",
-                    "dateTime": "19/06/2023"
-                },
-                {
-                    "leagueName": "Spain: Primera Division",
-                    "teams":{
-                        "teamA": "Cadiz",
-                        "teamB": "Villareal"
-                    },
-                    "prediction": "Villareal to score",
-                    "dateTime": "19/06/2023"
-                }
-            ],
-            "scoreTwoFive": [
-                {
-                    "leagueName": "Spain: Primera Division",
-                    "teams":{
-                        "teamA": "Cadiz",
-                        "teamB": "Villareal"
-                    },
-                    "prediction": "Villareal to score",
-                    "dateTime": "19/06/2023"
-                },
-                {
-                    "leagueName": "Spain: Primera Division",
-                    "teams":{
-                        "teamA": "Cadiz",
-                        "teamB": "Villareal"
-                    },
-                    "prediction": "Villareal to score",
-                    "dateTime": "19/06/2023"
-                },
-                {
-                    "leagueName": "Spain: Primera Division",
-                    "teams":{
-                        "teamA": "Cadiz",
-                        "teamB": "Villareal"
-                    },
-                    "prediction": "Villareal to score",
-                    "dateTime": "19/06/2023"
-                }
-            ],
-            "overThreeFive": [
+        "scoreTwoPlus": {
+            "games": [
                 {
                     "leagueName": "Spain: Primera Division",
                     "teams":{
@@ -177,44 +61,161 @@
                 }
             ]
         },
-    "todayBest": [
-        {
-            "leagueName": "Spain: Primera Division",
-            "teams":{
-                "teamA": "Cadiz",
-                "teamB": "Villareal"
-            },
-            "prediction": "Villareal to score",
-            "dateTime": "19/06/2023"
+        "BTTS": {
+            "games": [
+                {
+                    "leagueName": "Spain: Primera Division",
+                    "teams":{
+                        "teamA": "Cadiz",
+                        "teamB": "Villareal"
+                    },
+                    "prediction": "Villareal to score",
+                    "dateTime": "19/06/2023"
+                },
+                {
+                    "leagueName": "Spain: Primera Division",
+                    "teams":{
+                        "teamA": "Cadiz",
+                        "teamB": "Villareal"
+                    },
+                    "prediction": "Villareal to score",
+                    "dateTime": "19/06/2023"
+                },
+                {
+                    "leagueName": "Spain: Primera Division",
+                    "teams":{
+                        "teamA": "Cadiz",
+                        "teamB": "Villareal"
+                    },
+                    "prediction": "Villareal to score",
+                    "dateTime": "19/06/2023"
+                }
+            ]
         },
-        {
-            "leagueName": "Spain: Primera Division",
-            "teams":{
-                "teamA": "Cadiz",
-                "teamB": "Villareal"
-            },
-            "prediction": "Villareal to score",
-            "dateTime": "19/06/2023"
+        "OverOneFive": {
+            "games": [
+                {
+                    "leagueName": "Spain: Primera Division",
+                    "teams":{
+                        "teamA": "Cadiz",
+                        "teamB": "Villareal"
+                    },
+                    "prediction": "Villareal to score",
+                    "dateTime": "19/06/2023"
+                },
+                {
+                    "leagueName": "Spain: Primera Division",
+                    "teams":{
+                        "teamA": "Cadiz",
+                        "teamB": "Villareal"
+                    },
+                    "prediction": "Villareal to score",
+                    "dateTime": "19/06/2023"
+                },
+                {
+                    "leagueName": "Spain: Primera Division",
+                    "teams":{
+                        "teamA": "Cadiz",
+                        "teamB": "Villareal"
+                    },
+                    "prediction": "Villareal to score",
+                    "dateTime": "19/06/2023"
+                }
+            ]
         },
-        {
-            "leagueName": "Spain: Primera Division",
-            "teams":{
-                "teamA": "Cadiz",
-                "teamB": "Villareal"
+            "scoreTwoFive": {
+                "games": [
+                    {
+                        "leagueName": "Spain: Primera Division",
+                        "teams":{
+                            "teamA": "Cadiz",
+                            "teamB": "Villareal"
+                        },
+                        "prediction": "Villareal to score",
+                        "dateTime": "19/06/2023"
+                    },
+                    {
+                        "leagueName": "Spain: Primera Division",
+                        "teams":{
+                            "teamA": "Cadiz",
+                            "teamB": "Villareal"
+                        },
+                        "prediction": "Villareal to score",
+                        "dateTime": "19/06/2023"
+                    },
+                    {
+                        "leagueName": "Spain: Primera Division",
+                        "teams":{
+                            "teamA": "Cadiz",
+                            "teamB": "Villareal"
+                        },
+                        "prediction": "Villareal to score",
+                        "dateTime": "19/06/2023"
+                    }
+                ]
             },
-            "prediction": "Villareal to score",
-            "dateTime": "19/06/2023"
-        },
-        {
-            "leagueName": "Spain: Primera Division",
-            "teams":{
-                "teamA": "Cadiz",
-                "teamB": "Villareal"
+            "overThreeFive": {
+                "games": [
+                    {
+                        "leagueName": "Spain: Primera Division",
+                        "teams":{
+                            "teamA": "Cadiz",
+                            "teamB": "Villareal"
+                        },
+                        "prediction": "Villareal to score",
+                        "dateTime": "19/06/2023"
+                    },
+                    {
+                        "leagueName": "Spain: Primera Division",
+                        "teams":{
+                            "teamA": "Cadiz",
+                            "teamB": "Villareal"
+                        },
+                        "prediction": "Villareal to score",
+                        "dateTime": "19/06/2023"
+                    },
+                    {
+                        "leagueName": "Spain: Primera Division",
+                        "teams":{
+                            "teamA": "Cadiz",
+                            "teamB": "Villareal"
+                        },
+                        "prediction": "Villareal to score",
+                        "dateTime": "19/06/2023"
+                    }
+                ]
             },
-            "prediction": "Villareal to score",
-            "dateTime": "19/06/2023"
-        }
-    ],
+    "todayBest": {
+        "games": [
+            {
+                "leagueName": "Spain: Primera Division",
+                "teams":{
+                    "teamA": "Cadiz",
+                    "teamB": "Villareal"
+                },
+                "prediction": "Villareal to score",
+                "dateTime": "19/06/2023"
+            },
+            {
+                "leagueName": "Spain: Primera Division",
+                "teams":{
+                    "teamA": "Cadiz",
+                    "teamB": "Villareal"
+                },
+                "prediction": "Villareal to score",
+                "dateTime": "19/06/2023"
+            },
+            {
+                "leagueName": "Spain: Primera Division",
+                "teams":{
+                    "teamA": "Cadiz",
+                    "teamB": "Villareal"
+                },
+                "prediction": "Villareal to score",
+                "dateTime": "19/06/2023"
+            }
+        ]
+    },
     "predictionResults": [
         {
             "date": "Thursday, 8th June 2023",
